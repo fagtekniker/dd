@@ -1,7 +1,0 @@
-#EXTM3U
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| TIVIBU SPOR UHD" tvg-logo="http://logourl.net/COBRALOGO/TURKIYE/TivibuSpor.png" group-title="TR - SPOR",TIVIBU SPOR UHD
-http://line.pro-gold.net:80/ApoT_1y_22/RTEZB0TLNH/46745
-#EXTINF:-1 tvg-ID="trtspor.tr" tvg-name="|TR| TRT SPOR UHD" tvg-logo="http://logourl.net/COBRALOGO/TURKIYE/TRTSpor.png" group-title="TR - SPOR",TRT SPOR UHD
-http://line.pro-gold.net:80/ApoT_1y_22/RTEZB0TLNH/3467
